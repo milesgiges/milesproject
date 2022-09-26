@@ -1,0 +1,17 @@
+table{
+    font-family: "DejaVu Sans";
+    width: 100%;
+    color: deeppink;
+    border-collapse: collapse;
+}
+td,th{
+    border: 2px dashed black;
+    padding: 16px;
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: lightcoral;
+}
+th{
+    color: black;
+}

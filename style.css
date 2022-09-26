@@ -1,0 +1,17 @@
+h1,h2,h3,h4,h5,h6{
+    color: blue;
+    font-family: "Century Schoolbook L";
+    font-size: 25px;
+    text-align: center;
+
+}
+p{
+    color: brown;
+    font-family: FreeSans;
+    font-size: 16px;
+}
+body{
+    background-image: url("images/th.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover ;
+}

@@ -1,0 +1,17 @@
+h1,h2{
+    color: deeppink;
+    font-family: D050000L"";
+    font-size: 16px;
+}
+ul,ol:nth-child(even){
+    background-color: lightcoral;
+
+}
+{
+    padding: 16px;
+    text-align: center;
+
+}
+
+
+
